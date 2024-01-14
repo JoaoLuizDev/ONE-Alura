@@ -1,4 +1,4 @@
-O que aprendemos nessa aula:
+# Resumo - Capítulo 1
 
 <details>
 <summary>Transformação digital gerando mais informações</summary></summary>
