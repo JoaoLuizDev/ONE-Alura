@@ -1,10 +1,5 @@
 O que aprendemos nessa aula:
 
-- Múltiplas carreiras e linhas de aprendizado
-- Ikigai
-- Pessoas diferentes aprendem em tempos e formatos diferentes
-- Teoria do Kolb
-
 <details>
 <summary>Transformação digital gerando mais informações</summary></summary>
 Mais informação sendo criada e distribuída aumenta a necessidade de aprender mais e mais rápido para acompanhar as mudanças do mercado de trabalho.
