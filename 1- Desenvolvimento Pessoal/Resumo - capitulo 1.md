@@ -37,7 +37,7 @@ e com um senso de significado.
 </details>
 
 <details>
-<summary> Estilos de Aprendizagem*</summary>
+<summary> Estilos de Aprendizagem</summary>
 
 Em suma, temos quatro estilos de aprendizado:    
   - **Acomodador:** aprende com o que o outro tem a dizer.  
