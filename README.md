@@ -1,9 +1,17 @@
-![capa - readme](https://github.com/joaoluizcienciadados/Formacao_Alura-Power_BI/blob/main/ferramentas/capa-%20readme.png)
-
 <sup> 🔗 Visite também >> [Portfólio de Ciência de Dados](https://github.com/joaoluizcienciadados/) </sup>
 
 # ONE (ONE - Oracle Next Education)  
 Repositório criado para armazenar trabalhos, projetos, relatórios e resumos produzidos durante o curso fornecido pela parceria Oracle e Alura.
+
+---
+### Projetos
+
+| Desafio | Link | Progresso | Data Conclusão |
+|----------|-------|:---------------:|:-----------:|
+| **Challenge ONE - Front End - Codificador e Decodificador de texto** | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-decodificador-br) | ✔️ | 15/04/2024 |
+| **Challenge ONE - Front End - Portfólio** | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-portfolio-br) | ✔️ | 29/04/2024 |
+| **Challenge ONE - Alurageek**  | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-alura-geek?tab=readme-ov-file) | ✔️ | 23/05/2024 |
+
 
 ## Sobre o programa
 O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
@@ -24,25 +32,3 @@ Beneficios de participar do programa ONE:
 - Cursos com certificado;  
 - Conexão com empresas;
 - Comunidade de ex-alunos.
-
-## Jornada
-**Fase 1: Inscrição**
-
-**Fase 2: Seleção**  
-Aluno ganha acesso à plataforma do ONE por dois meses para conhecer a metodologia do programa e finalizar as primeiras formações em Lógica de Programação e Desenvolvimento Pessoal.
-
-**Fase 3: Trilhas Obrigatórias**  
-Aluno deve escolher entre as formações em Front-End ou Back-End para realizar junto às de Soft Skills.
-
-**Fase 4: AlumniONE**  
-Após formado, aluno ainda pode fazer parte do AlumniONE, comunidade de ex-alunos que oferece benefícios e mais de 200 horas de trilhas Oracle exclusivas.
-
-## Cursos
-- Desenvolvimento Pessoal  
-  - Aprender a aprender: técnicas para seu autodesenvolvimento;  
-  - LinkedIn: como fazer o seu perfil trabalhar para você;  
-  - Foco: trazendo mais resultados para o dia a dia;  
-  - Hábitos: da produtividade às metas pessoais.
-
-# Como foi participar  
-(Em construção)
