@@ -12,23 +12,20 @@ Repositório criado para armazenar trabalhos, projetos, relatórios e resumos pr
 | **Challenge ONE - Front End - Portfólio** | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-portfolio-br) | ✔️ | 29/04/2024 |
 | **Challenge ONE - Alurageek**  | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-alura-geek?tab=readme-ov-file) | ✔️ | 23/05/2024 |
 
+---
+### Ferramentas e tecnologias utilizadas:
+  <div style= "display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VisualStudio Code" alt="VisualStudio Code" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  </div>
+  
 
-## Sobre o programa
-O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.
-
-O curso é 100% online e totalmente gratuito, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
-
-Cada geração de alunos cumpre uma jornada de 6 meses, dividida em 4 trilhas disponibilizadas na plataforma – ao todo são mais de 560 horas de experiência de conteúdo.
-
-Ao finalizar a participação no ONE, os estudantes ainda têm a oportunidade de fazer parte da comunidade AlumniONE para ex-alunos, com outros benefícios gratuitos e trilhas Oracle exclusivas.
-
-Beneficios de participar do programa ONE:
-
-- 100% online e gratuito;
-- Aulas ao vivo;; 
-- Comunidade de Apoio no Discord;  
-- Webinars com profissionais;  
-- Desafios para aplicação prática;  
-- Cursos com certificado;  
-- Conexão com empresas;
-- Comunidade de ex-alunos.
+---
+### Contato:
+  <div style="display=inline-block"> 
+    <a href="https://www.linkedin.com/in/joaoluizbr/" target="_blank"><img height=40 title="Linkedin" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+    <a href = "mailto:joaoluizcienciacomp@gmail.com"><img title="Gmail" alt="Gmail"  height=40 src="https://icongr.am/simple/gmail.svg?size=128&color=currentColor&colored=true" target="_blank"></a>
+  </div>
