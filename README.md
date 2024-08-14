@@ -1,7 +1,7 @@
 <sup> 🔗 Visite também >> [Portfólio de Ciência de Dados](https://github.com/joaoluizcienciadados/) </sup>
 
 # ONE (ONE - Oracle Next Education)  
-Repositório criado para armazenar trabalhos, projetos, relatórios e resumos produzidos durante o curso fornecido pela parceria Oracle e Alura.
+Repositório criado para armazenar trabalhos e projetos produzidos durante o curso fornecido pela parceria Oracle e Alura.
 
 ---
 ### Projetos
