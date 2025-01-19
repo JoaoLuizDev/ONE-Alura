@@ -1,5 +1,3 @@
-<sup> 🔗 Visite também >> [Portfólio de Ciência de Dados](https://github.com/joaoluizcienciadados/) </sup>
-
 # ONE (ONE - Oracle Next Education)  
 Repositório criado para armazenar trabalhos e projetos produzidos durante o curso fornecido pela parceria Oracle e Alura.
 
@@ -11,6 +9,7 @@ Repositório criado para armazenar trabalhos e projetos produzidos durante o cur
 | **Challenge ONE - Front End - Codificador e Decodificador de texto** | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-decodificador-br) | ✔️ | 15/04/2024 |
 | **Challenge ONE - Front End - Portfólio** | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-portfolio-br) | ✔️ | 29/04/2024 |
 | **Challenge ONE - Alurageek**  | [Acesse](https://github.com/joaoluizcienciadados/challenge-one-alura-geek?tab=readme-ov-file) | ✔️ | 23/05/2024 |
+| **Lógica de programação: mergulhe em programação com JavaScript** | [Acesse](https://github.com/JoaoLuizDev/Logica-Programacao-JavaScript) | ✔️ | 19/01/2025 |
 
 ---
 ### Ferramentas e tecnologias utilizadas:
