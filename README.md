@@ -1,6 +1,6 @@
 # ONE (ONE - Oracle Next Education)  
 
-![Badge Em Andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=BLUE&style=for-the-badge)
+![Badge Em Andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=blue&style=for-the-badge)
 
 ## Sobre o repositório
 🔹 Repositório criado para armazenar trabalhos e projetos produzidos durante o curso fornecido pela parceria Oracle e Alura.  
